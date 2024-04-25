@@ -10,6 +10,8 @@ public class HelloGoodbye {
         System.out.println("Hello " + firstArg + " and " + secndArg + ".");
         System.out.println("Goodbye " + secndArg + " and " + firstArg + ".");
 
+        System.out.println("The End");
+
     }
 
 }
